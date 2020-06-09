@@ -1,0 +1,1 @@
+Należy zauważyć, że keySet nie jest zbiorem typu HashSet ani TreeSet, tylko obiektem jeszcze innej klasy implementujących interfejs Set. Interfejs Set roszerza kolekcje Collection, dzięku czemu zbioru keySet można używać w taki sam sposób jak w każdej innej kolekcji.
